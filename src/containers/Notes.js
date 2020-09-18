@@ -53,7 +53,6 @@ export default function Notes() {
 	}
 
 	async function handleSubmit(event) {
-		let attachment;
 
 		event.preventDefault();
 
